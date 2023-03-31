@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">]
+  <div class="hello">
     <div>当前的类型:画区域</div>
       <p>在下面的黑色区域，点击鼠标左键开始吧，点击右键就结束</p>
     <!-- 新的电子围栏绘画 -->
